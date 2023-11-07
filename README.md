@@ -1,2 +1,2 @@
 # LunarHarmony
-My first actual processing project for my graphics course
+My first actual project for my graphics course
